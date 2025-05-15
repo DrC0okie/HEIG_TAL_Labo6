@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+bin/
+share/
+lib64
+
+pyvenv.cfg
+
+interest-original.txt
